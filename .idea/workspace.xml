@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d720c5a-d216-4bf7-8c65-8604888548dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP10_LC19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP8_LC15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP9_LC17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP11_LC20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP12_LC21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP13_LC22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP14_LC23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +51,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TOP9_LC17">
-    <configuration name="TOP10_LC19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.practice.leetcodeTop100.TOP10_LC19" />
+  <component name="RunManager" selected="Application.TOP14_LC23">
+    <configuration name="TOP11_LC20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.practice.leetcodeTop100.TOP11_LC20" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +65,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TOP8_LC15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.practice.leetcodeTop100.TOP8_LC15" />
+    <configuration name="TOP12_LC21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.practice.leetcodeTop100.TOP12_LC21" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.practice.leetcodeTop100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TOP13_LC22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.practice.leetcodeTop100.TOP13_LC22" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.practice.leetcodeTop100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TOP14_LC23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.practice.leetcodeTop100.TOP14_LC23" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -93,9 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TOP14_LC23" />
+        <item itemvalue="Application.TOP13_LC22" />
+        <item itemvalue="Application.TOP12_LC21" />
+        <item itemvalue="Application.TOP11_LC20" />
         <item itemvalue="Application.TOP9_LC17" />
-        <item itemvalue="Application.TOP10_LC19" />
-        <item itemvalue="Application.TOP8_LC15" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +139,14 @@
       <option name="presentableId" value="Default" />
       <updated>1713531037061</updated>
     </task>
+    <task id="LOCAL-00001" summary="20240422">
+      <created>1713777213262</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713777213262</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,15 +154,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="20240422" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240422" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP8_LC15.java</url>
           <line>32</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP12_LC21.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
