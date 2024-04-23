@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d720c5a-d216-4bf7-8c65-8604888548dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP11_LC20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP12_LC21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP13_LC22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP14_LC23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP16_LC32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TOP14_LC23">
+  <component name="RunManager" selected="Application.TOP16_LC32">
     <configuration name="TOP11_LC20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.study.practice.leetcodeTop100.TOP11_LC20" />
       <module name="algorithm" />
@@ -104,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TOP9_LC17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.practice.leetcodeTop100.TOP9_LC17" />
+    <configuration name="TOP16_LC32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.practice.leetcodeTop100.TOP16_LC32" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TOP16_LC32" />
         <item itemvalue="Application.TOP14_LC23" />
         <item itemvalue="Application.TOP13_LC22" />
         <item itemvalue="Application.TOP12_LC21" />
         <item itemvalue="Application.TOP11_LC20" />
-        <item itemvalue="Application.TOP9_LC17" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713777213262</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20240423">
+      <created>1713854842902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713854842902</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +159,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="20240422" />
-    <option name="LAST_COMMIT_MESSAGE" value="20240422" />
+    <MESSAGE value="20240423" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240423" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
