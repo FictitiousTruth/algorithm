@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d720c5a-d216-4bf7-8c65-8604888548dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/learn/backtrack/zuhe/LC216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/learn/backtrack/zuhe/LC39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/learn/backtrack/zuhe/LC40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/learn/backtrack/zuhe/LC77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP15_LC31_todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP17_LC33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP18_LC34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP19_LC39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP20_LC42.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP20_LC42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP20_LC42.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +143,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713531037061</updated>
-      <workItem from="1714021765960" duration="16498000" />
+      <workItem from="1714021765960" duration="18304000" />
     </task>
     <task id="LOCAL-00001" summary="20240422">
       <created>1713777213262</created>
@@ -174,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713866883756</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20240425">
+      <created>1714042808899</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714042808899</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +183,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="20240422" />
     <MESSAGE value="20240423" />
-    <option name="LAST_COMMIT_MESSAGE" value="20240423" />
+    <MESSAGE value="20240425" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240425" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
