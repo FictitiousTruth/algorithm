@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100;
+package com.study.practice.leetcodeTop100.TOP1_20;
 
 /**
  * @version 1.0
