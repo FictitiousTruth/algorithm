@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8d720c5a-d216-4bf7-8c65-8604888548dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP21_40/TOP21_LC46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP10_LC19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP10_LC19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP11_LC20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP11_LC20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP12_LC21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP12_LC21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP13_LC22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP13_LC22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP14_LC23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP14_LC23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP15_LC31_todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP15_LC31_todo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP16_LC32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP16_LC32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP17_LC33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP17_LC33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP18_LC34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP18_LC34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP19_LC39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP19_LC39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_LC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP1_LC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP20_LC42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP20_LC42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP2_LC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP2_LC2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP3_LC3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP3_LC3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP4_LC4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP4_LC4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP5_LC5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP5_LC5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP8_LC15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP8_LC15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP9_LC17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP1_20/TOP9_LC17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/practice/test/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +51,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/ideaworkspace/algorithm/src/com/study/practice/leetcodeTop100/TOP1_20"
+    "last_opened_file_path": "E:/ideaworkspace/algorithm/src/com/study/practice/leetcodeTop100/TOP1_20",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="RecentsManager">
