@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="8d720c5a-d216-4bf7-8c65-8604888548dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/study/practice/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP20_LC42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP20_LC42.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +48,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/ideaworkspace/algorithm/src/com/study/practice/leetcodeTop100/TOP1_20",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\ideaworkspace\algorithm\src\com\study\practice\leetcodeTop100\TOP1_20" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.study.practice.learn.backtrack.zuhe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TOP21_LC46">
+  <component name="RunManager" selected="Application.TOP20_LC42">
     <configuration name="LC216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.study.practice.learn.backtrack.zuhe.LC216" />
       <module name="algorithm" />
@@ -79,6 +72,19 @@
     </configuration>
     <configuration name="LC40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.study.practice.learn.backtrack.zuhe.LC40" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.practice.learn.backtrack.zuhe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.practice.learn.backtrack.zuhe.LC77" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -116,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TOP21_LC46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.practice.leetcodeTop100.TOP21_40.TOP21_LC46" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study.practice.leetcodeTop100.TOP21_40.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TOP21_LC46" />
         <item itemvalue="Application.TOP20_LC42" />
         <item itemvalue="Application.LC40" />
         <item itemvalue="Application.TOP19_LC39" />
         <item itemvalue="Application.LC216" />
+        <item itemvalue="Application.LC77" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +143,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713531037061</updated>
-      <workItem from="1714021765960" duration="23088000" />
+      <workItem from="1714021765960" duration="18304000" />
     </task>
     <task id="LOCAL-00001" summary="20240422">
       <created>1713777213262</created>
@@ -180,14 +173,7 @@
       <option name="project" value="LOCAL" />
       <updated>1714042808899</updated>
     </task>
-    <task id="LOCAL-00005" summary="20240426">
-      <created>1714098081986</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1714098081986</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,12 +184,26 @@
     <MESSAGE value="20240422" />
     <MESSAGE value="20240423" />
     <MESSAGE value="20240425" />
-    <MESSAGE value="20240426" />
-    <option name="LAST_COMMIT_MESSAGE" value="20240426" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240425" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP8_LC15.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP12_LC21.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/study/practice/leetcodeTop100/TOP18_LC34.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/study/practice/learn/backtrack/zuhe/LC77.java</url>
           <line>17</line>
