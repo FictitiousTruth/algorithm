@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d720c5a-d216-4bf7-8c65-8604888548dc" name="Default Changelist" comment="20240426">
-      <change beforePath="$PROJECT_DIR$/src/com/study/practice/Test.java" beforeDir="false" />
+    <list default="true" id="8d720c5a-d216-4bf7-8c65-8604888548dc" name="Default Changelist" comment="33">
+      <change beforePath="$PROJECT_DIR$/src/com/study/practice/test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/practice/test/Test01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Lnovo &lt;2205186558@qq.com&gt;" />
         <option value="dlw &lt;2205186558@qq.com&gt;" />
       </list>
     </option>
@@ -31,6 +32,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -200,7 +202,47 @@
       <option name="project" value="LOCAL" />
       <updated>1730015128447</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="删除">
+      <option name="closed" value="true" />
+      <created>1730015993004</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730015993004</updated>
+    </task>
+    <task id="LOCAL-00008" summary="11">
+      <option name="closed" value="true" />
+      <created>1730016062618</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730016062618</updated>
+    </task>
+    <task id="LOCAL-00009" summary="22">
+      <option name="closed" value="true" />
+      <created>1730016131711</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730016131711</updated>
+    </task>
+    <task id="LOCAL-00010" summary="22">
+      <option name="closed" value="true" />
+      <created>1730016187533</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730016187533</updated>
+    </task>
+    <task id="LOCAL-00011" summary="33">
+      <option name="closed" value="true" />
+      <created>1730016208062</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730016208062</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +254,11 @@
     <MESSAGE value="20240423" />
     <MESSAGE value="20240425" />
     <MESSAGE value="20240426" />
-    <option name="LAST_COMMIT_MESSAGE" value="20240426" />
+    <MESSAGE value="删除" />
+    <MESSAGE value="11" />
+    <MESSAGE value="22" />
+    <MESSAGE value="33" />
+    <option name="LAST_COMMIT_MESSAGE" value="33" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
