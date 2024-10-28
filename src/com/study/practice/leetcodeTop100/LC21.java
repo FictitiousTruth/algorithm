@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 /**
  * @version 1.0
@@ -6,7 +6,7 @@ package com.study.practice.leetcodeTop100.TOP1_20;
  * @Date 2024/4/22 17:57
  * @注释 《合并两个有序链表》
  */
-public class TOP12_LC21 {
+public class LC21 {
 
 
     public static class ListNode {

@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 /**
  * @version 1.0
@@ -6,7 +6,7 @@ package com.study.practice.leetcodeTop100.TOP1_20;
  * @Date 2024/4/19 15:45
  * @注释 《寻找两个正序数组的中位数》
  */
-public class TOP4_LC4 {
+public class LC4 {
 
 
     /**

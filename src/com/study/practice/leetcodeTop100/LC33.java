@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 /**
  * @version 1.0
@@ -7,7 +7,7 @@ package com.study.practice.leetcodeTop100.TOP1_20;
  * @注释 《搜索旋转排序数组》
  * 解法： 二分搜索法
  */
-public class TOP17_LC33 {
+public class LC33 {
 
 
     /**

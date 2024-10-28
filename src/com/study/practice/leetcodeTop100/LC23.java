@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 /**
  * @version 1.0
@@ -6,7 +6,7 @@ package com.study.practice.leetcodeTop100.TOP1_20;
  * @Date 2024/4/23 14:06
  * @注释 《合并K个升序链表》
  */
-public class TOP14_LC23 {
+public class LC23 {
 
     public static class ListNode {
         int val;

@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -11,7 +11,7 @@ import java.util.List;
  * @注释 《三数之和》
  * 解法：排序+双指针
  */
-public class TOP8_LC15 {
+public class LC15 {
 
     public static List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();

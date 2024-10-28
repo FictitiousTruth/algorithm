@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -41,7 +41,7 @@ import java.util.HashMap;
  * -109 <= target <= 109
  * 只会存在一个有效答案
  */
-public class TOP1_LC1 {
+public class LC1 {
 
     /**
      * @param nums

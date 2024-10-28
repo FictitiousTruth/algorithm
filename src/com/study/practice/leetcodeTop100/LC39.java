@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -10,7 +10,7 @@ import java.util.List;
  * @Date 2024/4/25 14:35
  * @注释 《组合总合》
  */
-public class TOP19_LC39 {
+public class LC39 {
 
     public static List<List<Integer>> combinationSum(int[] candidates, int target) {
 

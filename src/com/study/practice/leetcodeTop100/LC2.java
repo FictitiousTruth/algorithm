@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 /**
  * @version 1.0
@@ -6,7 +6,7 @@ package com.study.practice.leetcodeTop100.TOP1_20;
  * @Date 2024/4/19 19:52
  * @注释 《两数相加》
  */
-public class TOP2_LC2 {
+public class LC2 {
 
     static class ListNode {
         int val;

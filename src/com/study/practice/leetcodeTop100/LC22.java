@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +9,7 @@ import java.util.List;
  * @Date 2024/4/23 13:08
  * @注释 《生成有效的括号》
  */
-public class TOP13_LC22 {
+public class LC22 {
 
     /**
      * 有效的括号是

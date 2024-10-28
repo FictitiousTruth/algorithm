@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 /**
  * @version 1.0
@@ -6,7 +6,7 @@ package com.study.practice.leetcodeTop100.TOP1_20;
  * @Date 2024/4/25 13:10
  * @注释 《下一个排列》
  */
-public class TOP15_LC31_todo {
+public class LC31_todo {
 
 
 }

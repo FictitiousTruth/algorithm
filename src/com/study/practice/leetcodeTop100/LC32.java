@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 import java.util.LinkedList;
 
@@ -9,7 +9,7 @@ import java.util.LinkedList;
  * @注释 《最长有效括号》
  * 解题思路： 借助栈
  */
-public class TOP16_LC32 {
+public class LC32 {
 
 
     /**

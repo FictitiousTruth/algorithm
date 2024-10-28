@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 import java.util.HashSet;
 
@@ -39,7 +39,7 @@ import java.util.HashSet;
  */
 
 
-public class TOP3_LC3 {
+public class LC3 {
 
 
     /**

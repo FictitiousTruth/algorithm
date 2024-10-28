@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 /**
  * @version 1.0
@@ -6,7 +6,7 @@ package com.study.practice.leetcodeTop100.TOP1_20;
  * @Date 2024/4/25 14:18
  * @注释 《在排序数组中查找元素的第一个和最后一个位》
  */
-public class TOP18_LC34 {
+public class LC34 {
 
     public static int[] searchRange(int[] nums, int target) {
         int[] result = new int[]{-1, -1};

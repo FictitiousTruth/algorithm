@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 import java.util.LinkedList;
 
@@ -14,7 +14,7 @@ import java.util.LinkedList;
  * 左边第一个比当前柱子大的元素 这样来求盛雨水的高度
  * 栈里面放的是数组的下标索引
  */
-public class TOP20_LC42 {
+public class LC42 {
 
 
 

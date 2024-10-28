@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 /**
  * @version 1.0
@@ -8,7 +8,7 @@ package com.study.practice.leetcodeTop100.TOP1_20;
  * 方法一： 动态规划
  * 方法二： 中心扩展法 [跑出来的效果更好]
  */
-public class TOP5_LC5 {
+public class LC5 {
 
     static int maxLen;
     static String maxStr;

@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 import java.util.LinkedList;
 
@@ -8,7 +8,7 @@ import java.util.LinkedList;
  * @Date 2024/4/22 17:42
  * @注释 《有效的括号》
  */
-public class TOP11_LC20 {
+public class LC20 {
 
     public static boolean isValid(String s) {
         char[] array = s.toCharArray();

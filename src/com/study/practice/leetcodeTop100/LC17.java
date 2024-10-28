@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -12,7 +12,7 @@ import java.util.List;
  * @注释 《电话号码的字母组合》
  * 解法: 回溯算法
  */
-public class TOP9_LC17 {
+public class LC17 {
     public static List<String> letterCombinations(String digits) {
         ArrayList<String> result = new ArrayList<>();
         HashMap<Character, List<String>> map = new HashMap<>();

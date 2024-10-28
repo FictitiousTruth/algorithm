@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP21_40;
+package com.study.practice.leetcodeTop100;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -11,7 +11,7 @@ import java.util.List;
  * @Date 2024/4/26 10:25
  * @注释 《全排序》
  */
-public class TOP21_LC46 {
+public class LC46 {
 
 
     /**

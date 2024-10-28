@@ -1,4 +1,4 @@
-package com.study.practice.leetcodeTop100.TOP1_20;
+package com.study.practice.leetcodeTop100;
 
 /**
  * @version 1.0
@@ -6,7 +6,7 @@ package com.study.practice.leetcodeTop100.TOP1_20;
  * @Date 2024/4/22 14:08
  * @注释 《删除链表的倒数第n个节点》
  */
-public class TOP10_LC19 {
+public class LC19 {
 
 
     public static class ListNode {
