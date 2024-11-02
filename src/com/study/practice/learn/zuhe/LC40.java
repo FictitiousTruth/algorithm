@@ -1,4 +1,4 @@
-package com.study.practice.learn.backtrack.zuhe;
+package com.study.practice.learn.zuhe;
 
 import java.util.ArrayList;
 import java.util.Arrays;
